@@ -6,4 +6,4 @@ Using Power BI and the data of a bank, we checked customer churn based on differ
 2. Data Modeling and Analysis
 3. Data Visualisation
 
-![My Image](screenshot.png)
+![My Image](Screenshot.png)
